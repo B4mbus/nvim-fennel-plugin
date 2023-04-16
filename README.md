@@ -37,7 +37,7 @@ Highlights
 
 FAQ
 
-Remember to potentially change:
+Remember to change:
  - `README.md`
  - `LICENSE` (copyright holder)
  - `.gitignore`
@@ -45,4 +45,4 @@ Remember to potentially change:
  - `Makefile`
  - `.github/ISSUE_TEMPLATE/*`
  - `.github/workflows/*`
- - The code and types
+ - The code and such
