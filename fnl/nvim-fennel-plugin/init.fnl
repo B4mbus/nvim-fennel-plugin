@@ -1,4 +1,4 @@
-(fn bruh []
-  (print :bruh))
+(fn add [a b]
+  (+ a b))
 
-{: bruh}
+{: add}

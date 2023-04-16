@@ -1,5 +1,5 @@
-(import-macros {: hello} :test)
-(local {: bruh} (require :nvim-fennel-plugin))
+(import-macros {: greet} :test)
+(local {: add} (require :nvim-fennel-plugin))
 
-(hello :world)
-(bruh)
+(greet :world)
+(print (string.format "2 + 2 = %s" (add 2 2)))

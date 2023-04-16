@@ -1,4 +1,4 @@
-(fn hello [world]
-  `(print :hello ,world))
+(fn greet [subject]
+  `(print :hello ,subject))
 
-{: hello}
+{: greet}
