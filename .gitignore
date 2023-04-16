@@ -6,3 +6,4 @@ Makefile
 !macros/
 !.github
 !.gitignore
+!.editorconfig
