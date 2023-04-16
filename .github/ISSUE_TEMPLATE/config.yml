@@ -1,0 +1,7 @@
+# Taken from https://github.com/nvim-neorg/neorg/blob/main/.github/ISSUE_TEMPLATE/config.yml
+# and modified
+
+contact_links:
+  - name: Ask a question
+    url: https://github.com/{{PLACEHOLDER}}/{{PLACEHOLDER}}/discussions
+    about: If you need help with configuration or want to discuss other matters
