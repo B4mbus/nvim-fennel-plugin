@@ -36,7 +36,7 @@ jobs:
         id: release
         with:
           release-type: simple
-          package-name: nvim-fennel-plugin
+          package-name: PLACEHOLDER
       - uses: actions/checkout@v3
       - name: Tag stable versions
         if: ${{ steps.release.outputs.release_created }}
